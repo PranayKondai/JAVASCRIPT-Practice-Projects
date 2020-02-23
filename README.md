@@ -1,1 +1,1 @@
-# MyJSTools
+# JAVASCRIPT Practice
